@@ -68,10 +68,15 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="✰𝐁𝐀𝐁𝐔✰", url="https://t.me/ll_SARKAR_OWNER_ll",
+                text="❰𝗢ᴡɴᴇʀ❱", url="https://t.me/ll_SARKAR_OWNER_ll"
             ),
             InlineKeyboardButton(
-                text="✰𝐒𝐎𝐍𝐀✰", url="https://t.me/TG_NAME_STYLE",
+                text="❰𝗔ʟʟ 𝗕ᴏᴛs❱", url="https://t.me/PROMOTION_UPDATE/6"
+            ),
+        ],
+        [
+            InlineKeyboardButton(
+                text="❰𝗣ʀᴏᴍᴏᴛɪᴏɴ 𝗔ᴠᴀɪʟᴀʙʟᴇ❱", url="https://t.me/TG_NAME_STYLE/4602"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
