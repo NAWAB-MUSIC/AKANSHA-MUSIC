@@ -29,12 +29,12 @@ async def join_watcher(_, message):
                     message.chat.username if message.chat.username else "𝐏ʀɪᴠᴀᴛᴇ 𝐆ʀᴏᴜᴘ"
                 )
                 msg = (
-                    f"**📝𝐌ᴜsɪᴄ 𝐁ᴏᴛ 𝐀ᴅᴅᴇᴅ 𝐈ɴ 𝐀 #𝐍ᴇᴡ_𝐆ʀᴏᴜᴘ**\n\n"
-                    f"**📌𝐂ʜᴀᴛ 𝐍ᴀᴍᴇ:** {message.chat.title}\n"
-                    f"**🍂𝐂ʜᴀᴛ 𝐈ᴅ:** `{message.chat.id}`\n"
-                    f"**🔐𝐂ʜᴀᴛ 𝐔sᴇʀɴᴀᴍᴇ:** @{username}\n"
-                    f"**📈𝐆ʀᴏᴜᴘ 𝐌ᴇᴍʙᴇʀs:** {count}\n"
-                    f"**🤔𝐀ᴅᴅᴇᴅ 𝐁ʏ:** {message.from_user.mention}"
+                    f"❤️‍🔥𝐌ᴜsɪᴄ 𝐁ᴏᴛ 𝐀ᴅᴅᴇᴅ 𝐈ɴ 𝐀 #𝐍ᴇᴡ_𝐆ʀᴏᴜᴘ\n\n"
+                    f"❤️‍🔥𝐂ʜᴀᴛ 𝐍ᴀᴍᴇ: {message.chat.title}\n"
+                    f"❤️‍🔥𝐂ʜᴀᴛ 𝐈ᴅ: `{message.chat.id}`\n"
+                    f"❤️‍🔥𝐂ʜᴀᴛ 𝐔sᴇʀɴᴀᴍᴇ: @{username}\n"
+                    f"❤️‍🔥𝐆ʀᴏᴜᴘ 𝐌ᴇᴍʙᴇʀs: {count}\n"
+                    f"❤️‍🔥𝐀ᴅᴅᴇᴅ 𝐁ʏ: {message.from_user.mention}"
                 )
                 await app.send_photo(
                     LOGGER_ID,
@@ -57,5 +57,3 @@ async def join_watcher(_, message):
 
     except Exception as e:
         print(f"Error: {e}")
-
-
