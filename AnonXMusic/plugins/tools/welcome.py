@@ -95,9 +95,9 @@ async def greet_new_member(_, member: ChatMemberUpdated):
                           f"𝘼ℓℓ 𝙈ємвєя : {count}\n" \
                           "────────────────────**"
         
-        # Creating an inline button to "Join 👋" with the link
+        # Creating an inline button to "❍ 𝙅𝙊𝙄𝙉 ❍" with the link
         keyboard = InlineKeyboardMarkup(
-            [[InlineKeyboardButton("Join 👋", url="https://t.me/SARKAR_UPDATE")]]
+            [[InlineKeyboardButton("❍ 𝙅𝙊𝙄𝙉 ❍", url="https://t.me/SARKAR_UPDATE")]]
         )
 
         # Send the welcome message with the inline button
