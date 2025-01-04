@@ -61,7 +61,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="❰𝗢ᴡɴᴇʀ❱", url="https://t.me/ll_SARKAR_OWNER_ll"
+                text="➕ 𝗔∂∂  𝗠є  𝗕αву ➕", url="https://t.me/ll_ZEHAR_MUSICBOT?startgroup=true"
             )
         ],
     ]
