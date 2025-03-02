@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 ᴀɴᴏɴ ダ ᴍᴜsɪᴄ 」──
+    ──「 𝗡𝗮𝘄𝗮𝗯 ダ ᴍᴜsɪᴄ 」──
 </h2>
 
 <p align="center">
