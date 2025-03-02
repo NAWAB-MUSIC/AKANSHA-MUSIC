@@ -37,7 +37,7 @@ def stream_markup_timer(_, chat_id, played, dur):
     elif 10 < umm < 20:
         bar = "━⚪━━━━━━━━━"
     elif 20 <= umm < 30:
-        bar = "🔥𝗦𝗮𝗿𝗸𝗮𝗿 𝗣𝗹𝗮𝘆𝗶𝗻𝗴🚩"
+        bar = "🔥𝗡𝗮𝘄𝗮𝗯 𝗣𝗹𝗮𝘆𝗶𝗻𝗴🚩"
     elif 30 <= umm < 40:
         bar = "━━━━⚪━━━━━━"
     elif 40 <= umm < 50:
@@ -61,15 +61,15 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="❰𝙊𝙬𝙣𝙚𝙧❱", url="https://t.me/ll_SARKAR_OWNER_ll"
+                text="❰𝙊𝙬𝙣𝙚𝙧❱", url="http://t.me/ll_NAWAB_ZADA_ll_007"
             ),
             InlineKeyboardButton(
-                text="❰𝗔𝗹𝗹 𝗕𝗼𝘁❱", url="https://t.me/SARKAR_UPDATE"
+                text="❰𝗚𝗿𝗼𝘂𝗽❱", url="https://t.me/+VWjyWWYcC4hjOGVl"
             ),
         ],
         [
             InlineKeyboardButton(
-                text="❰𝗣𝗥𝗢𝗠𝗢𝗧𝗜𝗢𝗡 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘❱", url="https://t.me/PROMOTION_UPDATE/51"
+                text="❰𝗖𝗵𝗲𝗻𝗻𝗲𝗹❱", url="https://t.me/ll_UP_CHANNEL_lll"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -88,12 +88,12 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="🔥𝗦𝗮𝗿𝗸𝗮𝗿 𝗣𝗹𝗮𝘆𝗶𝗻𝗴🚩", url="https://t.me/ll_SARKAR_OWNER_ll",
+                text="🔥𝗡𝗮𝘄𝗮𝗯 𝗣𝗹𝗮𝘆𝗶𝗻𝗴🚩", url="http://t.me/ll_NAWAB_ZADA_ll_007",
             ),
         ],
         [
             InlineKeyboardButton(
-                text="𝙄 𝘼𝙢 𝙇𝙞𝙫𝙚 𝙉𝙤𝙬🎧", url="https://t.me/TG_NAME_STYLE",
+                text="𝙄 𝘼𝙢 𝙇𝙞𝙫𝙚 𝙉𝙤𝙬🎧", url="https://t.me/llAKANSHA_OPll",
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
