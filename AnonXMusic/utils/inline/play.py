@@ -61,7 +61,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="❰𝙊𝙬𝙣𝙚𝙧❱", url="http://t.me/ll_NAWAB_ZADA_ll_007"
+                text="❰𝙊𝙬𝙣𝙚𝙧❱", url="http://t.me/@ll_NAWAB_ZADA_ll_00"
             ),
             InlineKeyboardButton(
                 text="❰𝗚𝗿𝗼𝘂𝗽❱", url="https://t.me/+Coq5RjmsosI2OTM1"
@@ -69,7 +69,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="❰𝗖𝗵𝗲𝗻𝗻𝗲𝗹❱", url="https://t.me/ll_UP_CHANNEL_lll"
+                text="❰𝗖𝗵𝗲𝗻𝗻𝗲𝗹❱", url="https://t.me/ll_NAWAB_ZADA_llO"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -88,7 +88,7 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="🔥𝗡𝗮𝘄𝗮𝗯 𝗣𝗹𝗮𝘆𝗶𝗻𝗴🚩", url="http://t.me/ll_NAWAB_ZADA_ll_007",
+                text="🔥𝗡𝗮𝘄𝗮𝗯 𝗣𝗹𝗮𝘆𝗶𝗻𝗴🚩", url="https://t.me/ll_NAWAB_ZADA_ll_00",
             ),
         ],
         [
