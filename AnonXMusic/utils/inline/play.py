@@ -64,7 +64,7 @@ def stream_markup_timer(_, chat_id, played, dur):
                 text="❰𝙊𝙬𝙣𝙚𝙧❱", url="http://t.me/ll_NAWAB_ZADA_ll_00"
             ),
             InlineKeyboardButton(
-                text="❰𝗚𝗿𝗼𝘂𝗽❱", url="https://t.me/+Coq5RjmsosI2OTM1"
+                text="❰𝗚𝗿𝗼𝘂𝗽❱", url="https://t.me/+t7d-99_5j1wyY2Y9"
             ),
         ],
         [
